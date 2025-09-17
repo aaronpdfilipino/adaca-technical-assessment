@@ -5,8 +5,7 @@ Quick start guide for development and production.
 ## Setup
 
 ```bash
-git clone <repo-url>
-cd <project-folder>
+git clone https://github.com/aaronpdfilipino/adaca-technical-assessment/
 cd client
 npm install
 ```
