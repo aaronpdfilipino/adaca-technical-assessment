@@ -5,6 +5,9 @@ Quick start guide for development and production.
 ## Setup
 
 ```bash
+git clone <repo-url>
+cd <project-folder>
+cd client
 npm install
 ```
 
