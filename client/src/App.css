@@ -1,0 +1,5 @@
+@reference "tailwindcss";
+
+#root {
+  @apply mx-auto text-center;
+}
